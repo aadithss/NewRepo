@@ -1,2 +1,2 @@
 # NewRepo
-craeting new Repository
+creating new Repository
